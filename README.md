@@ -10,8 +10,8 @@
 4. Python3
 
 ## Installation
-1. First clone this repository to your local machine using `https://github.com/mongare70/CMS-Testing-BDD`
-2. Checkout into the **master** branch using `git checkout master`
+1. First clone this repository to your local machine using ` git clone https://github.com/mongare70/CMS-Testing-BDD`
+2. **cd** into the git created folder
 3. Create a **virtualenv** on your machine, activate it, and install the dependencies via `pip install -r requirements.txt`.
 
 ## Commands
