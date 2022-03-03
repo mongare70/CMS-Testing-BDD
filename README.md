@@ -1,4 +1,4 @@
-# CMS Testing
+# CMS Testing (BDD)
 > The main objective of this project is to test 'The CMS System'.
 
 > You can find this web application on https://content-management-system.netlify.app/
